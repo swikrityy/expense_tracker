@@ -14,7 +14,8 @@ def add_expense():
 
 def view_expenses():
     print("\n--- Expense List ---")
-    total = 0
+    total = 1
+    0
 
     try:
         with open(FILE_NAME, "r") as file:
