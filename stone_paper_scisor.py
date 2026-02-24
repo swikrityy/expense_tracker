@@ -32,7 +32,7 @@ while True:
     elif (
         (user == "rock" and computer == "scissors") or
         (user == "paper" and computer == "rock") or
-        (user == "scissors" and computer == "paper")
+        (user == "scissors" and computer == "papar")
     ):
         print("✅ You win this round!\n")
         user_score += 1
