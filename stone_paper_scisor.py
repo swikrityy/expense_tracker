@@ -15,7 +15,7 @@ while True:
         print("\nFinal Score:")
         print("You:", user_score)
         print("Computer:", computer_score)
-        print("Thanks for playing! 👋")
+        print("Thanks for plying! 👋")
         break
 
     if user not in choices:
